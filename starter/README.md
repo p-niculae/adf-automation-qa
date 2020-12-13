@@ -4,7 +4,7 @@
 -   `npm install` to install the project dependencies
 -   Google Chrome is also needed locally to run the tests against
 
-**_Explanation_**
+## Explanation
 
 -   Configured babel to allow usage of import/export syntax
 -   Provided option to connect directly to the local chromedriver when running the example spec
